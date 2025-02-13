@@ -14,5 +14,5 @@ This is a cool Python-based image steganography application that enables users t
 
 ## Live Demo
 
-Check out the live demo of the app [here]([https://your-streamlit-app-link](https://hidetext.streamlit.app/ ).
+Check out the live demo of the app [here](https://your-streamlit-app-link](https://hidetext.streamlit.app/).
 
